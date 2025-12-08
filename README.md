@@ -3,8 +3,6 @@
 I’m a third-year **Software Engineering student** at the University of Information Technology (UIT), Ho Chi Minh City.  
 I specialize in **Backend Development** and **Software Architecture**, with hands-on experience building **microservices**, **RESTful APIs**, and scalable backend systems using **Spring Boot** and **.NET**.
 
----
-
 ## 🧩 About Me  
 
 I’m passionate about building production-ready backend systems using **Clean Architecture**, **Hexagonal Architecture**, and **Domain-Driven Design**.  
@@ -18,8 +16,6 @@ I enjoy working with:
 - RabbitMQ  
 - React, React Native  
 
----
-
 ## 🚀 What I Do  
 
 - Build backend services and APIs  
@@ -29,8 +25,6 @@ I enjoy working with:
 - Practice integration testing with Testcontainers  
 - Apply software engineering principles (SOLID, OOP, DRY)
 
----
-
 ## 🌱 Currently Learning  
 
 - Advanced Spring Boot Microservices  
@@ -38,8 +32,6 @@ I enjoy working with:
 - Resilience patterns (Circuit Breaker, Retry, TimeLimiter)  
 - Cloud deployment (Azure)  
 - CI/CD pipelines  
-
----
 
 ## 🧠 Interests  
 
@@ -49,14 +41,8 @@ I enjoy working with:
 - Cloud computing  
 - DevOps  
 
----
-
 ## 📫 Contact  
 
-Email: **minh1010.dev@gmail.com**  
+Email: **23520946@gm.uit.edu.vn**  
 
----
 
-## ⚡ Fun fact  
-
-I enjoy debugging microservices more than sleeping 😄
