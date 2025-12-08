@@ -1,97 +1,62 @@
-👋 Hi there, I'm Minh
+# 👋 Hi, I'm Minh  
 
-A passionate Backend Software Engineer from Viet Nam
+I’m a third-year **Software Engineering student** at the University of Information Technology (UIT), Ho Chi Minh City.  
+I specialize in **Backend Development** and **Software Architecture**, with hands-on experience building **microservices**, **RESTful APIs**, and scalable backend systems using **Spring Boot** and **.NET**.
 
-I'm a third-year Software Engineering student at the University of Information Technology (UIT), Ho Chi Minh City.
-I’m deeply interested in Backend Development & Software Architecture, with real experience building microservices, REST APIs, cloud deployments and production-ready systems.
+---
 
-💻 Tech Stack
-Backend
+## 🧩 About Me  
 
-Java / Spring Boot (Clean Architecture, DDD)
+I’m passionate about building production-ready backend systems using **Clean Architecture**, **Hexagonal Architecture**, and **Domain-Driven Design**.  
+Most of my work focuses on designing systems that are modular, testable, and easy to maintain.
 
-.NET / ASP.NET Core
+I enjoy working with:
+- Java, Spring Boot  
+- ASP.NET Core  
+- PostgreSQL, Redis  
+- Docker, Azure  
+- RabbitMQ  
+- React, React Native  
 
-Node.js, NestJS
+---
 
-Frontend
+## 🚀 What I Do  
 
-ReactJS, TypeScript
+- Build backend services and APIs  
+- Design scalable systems with Clean Architecture  
+- Implement microservices and event-driven communication  
+- Use Docker and cloud deployment for real projects  
+- Practice integration testing with Testcontainers  
+- Apply software engineering principles (SOLID, OOP, DRY)
 
-MUI, TailwindCSS
+---
 
-Mobile
+## 🌱 Currently Learning  
 
-React Native / Expo
+- Advanced Spring Boot Microservices  
+- Event-driven architecture  
+- Resilience patterns (Circuit Breaker, Retry, TimeLimiter)  
+- Cloud deployment (Azure)  
+- CI/CD pipelines  
 
-🛠 Architecture & Infrastructure
+---
 
-Clean Architecture / Hexagonal
+## 🧠 Interests  
 
-Microservices
+- Microservices  
+- Distributed systems  
+- Backend architecture  
+- Cloud computing  
+- DevOps  
 
-CQRS, Domain Events
+---
 
-RESTful APIs
+## 📫 Contact  
 
-Event-driven architecture (RabbitMQ, Kafka basic)
+Email: **minh1010.dev@gmail.com**  
 
-Docker, Docker Compose
+---
 
-Azure Container Registry (ACR), Azure Container Instances (ACI)
+## ⚡ Fun fact  
 
-Redis, PostgreSQL
-
-🗃 Database & DevOps
-
-PostgreSQL
-
-SQL Server
-
-Redis
-
-Docker
-
-Azure Cloud basics
-
-CI/CD fundamentals
-
-🔥 What I’m working on
-
-Microservice architecture for Hue Food
-
-Clean Architecture migration (Ports & Adapters)
-
-Domain-driven modularization of Spring Boot services
-
-Integration testing & Testcontainers
-
-Azure cloud deployments
-
-🌱 Learning Now
-
-Advanced Spring Boot Microservices
-
-Resilience patterns (Circuit Breaker, Retry, Bulkhead, TimeLimiter)
-
-Event-driven communication with RabbitMQ
-
-Cloud deployment (Azure, Docker, ACI/ACR)
-
-💡 Interests
-
-Backend engineering
-
-Distributed systems
-
-Software Architecture
-
-Cloud & DevOps
-
-Building scalable real-world products
-
-📫 Contact
-
-📧 Email: minh1010.dev@gmail.com
- (hoặc email real của bạn)
-🔗 GitHub: github.com/minh1010dev (tùy bạn chọn)
+I enjoy debugging microservices more than sleeping 😄
