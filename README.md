@@ -5,7 +5,7 @@ I specialize in **Backend Development** and **Software Architecture**, with hand
 
 ## 🧩 About Me  
 
-I’m passionate about building production-ready backend systems using **Clean Architecture**, **Hexagonal Architecture**, and **Domain-Driven Design**.  
+I’m passionate about building production-ready backend systems using **Clean Architecture**, **MVC**.  
 Most of my work focuses on designing systems that are modular, testable, and easy to maintain.
 
 I enjoy working with:
