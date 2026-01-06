@@ -10,7 +10,6 @@ Most of my work focuses on designing systems that are modular, testable, and eas
 
 I enjoy working with:
 - Java, Spring Boot  
-- ASP.NET Core  
 - PostgreSQL, Redis  
 - Docker, Azure  
 - RabbitMQ  
