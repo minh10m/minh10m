@@ -22,7 +22,7 @@ I enjoy working with:
 - Implement microservices and event-driven communication  
 - Use Docker and cloud deployment for real projects  
 - Practice integration testing with Testcontainers  
-- Apply software engineering principles (SOLID, OOP, DRY)
+- Apply software engineering principles (SOLID, OOP)
 
 ## 🌱 Currently Learning  
 
