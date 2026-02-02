@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Minh  
 
 I’m a third-year **Software Engineering student** at the University of Information Technology (UIT), Ho Chi Minh City.  
-I specialize in **Backend Development** and **Software Architecture**, with hands-on experience building **microservices**, **RESTful APIs**, and scalable backend systems using **Spring Boot** and **.NET**.
+I specialize in **Backend Development** and **Software Architecture**, with hands-on experience building **microservices**, **RESTful APIs**, and scalable backend systems using **Spring Boot**.
 
 ## 🧩 About Me  
 
